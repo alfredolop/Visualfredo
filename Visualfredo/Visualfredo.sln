@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visualfredo", "Visualfredo\Visualfredo.csproj", "{67BBEF64-4B2D-45A8-B510-D43A4CDB9818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BBEF64-4B2D-45A8-B510-D43A4CDB9818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BBEF64-4B2D-45A8-B510-D43A4CDB9818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BBEF64-4B2D-45A8-B510-D43A4CDB9818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BBEF64-4B2D-45A8-B510-D43A4CDB9818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C64047F7-294E-46E7-8809-AF6E90159201}
+	EndGlobalSection
+EndGlobal
